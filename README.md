@@ -1,10 +1,10 @@
-𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐓𝐨𝐝𝐨 𝐋𝐢𝐬𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 
+## 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐓𝐨𝐝𝐨 𝐋𝐢𝐬𝐭 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 
 <br/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76626529/185441736-3de3ccec-045d-42b2-9533-b786fdf12e02.png">
 </p>
 
-Introduction
+## Introduction
 
 This project is a Full Stack Todo List Application which is built using the MongoDB, NodeJS, ExpressJS, CSS, Javascript. It implements all the basic functionalities of a todo list, i.e, CRUD Operations (Create Read Update Delete).
 
@@ -20,7 +20,7 @@ This project is a Full Stack Todo List Application which is built using the Mong
    <br/>
    <br/>
 
-  Getting Started With The Project
+  ## Getting Started With The Project
 
 -  Fork the Project in your Repository.
 -  Clone the Forked Repository in your Local System.
@@ -43,7 +43,7 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 <br/>
 <br/>
 
-Tools Used
+## Tools Used
 
 <p align="justify">
 <img height="140" width="140" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_256.png">
@@ -74,26 +74,20 @@ Tools Used
    <br/>
    <br/>
 
-## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://fullstack-todo-list-application.onrender.com)
->
-> ## Checkout the Application Demo Video [YouTube](https://youtu.be/2VyxSQAE5mo)
 
 <br/>
 
-## 💻 Screens
+##  Screens
 
 <p align="justify">
 <img src="https://user-images.githubusercontent.com/76626529/185441736-3de3ccec-045d-42b2-9533-b786fdf12e02.png">
 </p>
 <br/>
 
-## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
 
-> [Twitter](https://twitter.com/ayush_codes)
+
 
 > [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
 
